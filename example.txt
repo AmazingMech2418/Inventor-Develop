@@ -1,0 +1,1 @@
+FILE hi.js|NEW NAME print JS console.log(ARG1); BAT `echo ARG1` BASH `echo ARG1` PY `print(ARG1)`|CPL JS|print "hi"

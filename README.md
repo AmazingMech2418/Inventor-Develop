@@ -1,2 +1,2 @@
-# Inventor-Develop
-Develop for Inventor GH Pages build
+# Inventor
+A programming language
